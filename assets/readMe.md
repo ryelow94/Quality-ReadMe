@@ -29,10 +29,10 @@ n/a
 This repo uses inquirer to ask questions. 
 
 ## Credit: 
-Ryan 
+Ryan Logan
 
 ## Contributions:  
-It is not open to contributions  
+It is not currently open to contributions. 
 
 ## GitHub: 
 www.github.com/ryelow94 
